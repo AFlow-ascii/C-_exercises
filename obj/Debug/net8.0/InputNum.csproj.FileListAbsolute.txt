@@ -1,0 +1,14 @@
+C:\Users\afiorini\WORK\InputNum\bin\Debug\net8.0\InputNum.exe
+C:\Users\afiorini\WORK\InputNum\bin\Debug\net8.0\InputNum.deps.json
+C:\Users\afiorini\WORK\InputNum\bin\Debug\net8.0\InputNum.runtimeconfig.json
+C:\Users\afiorini\WORK\InputNum\bin\Debug\net8.0\InputNum.dll
+C:\Users\afiorini\WORK\InputNum\bin\Debug\net8.0\InputNum.pdb
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.AssemblyInfoInputs.cache
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.AssemblyInfo.cs
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.csproj.CoreCompileInputs.cache
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.dll
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\refint\InputNum.dll
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.pdb
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\InputNum.genruntimeconfig.cache
+C:\Users\afiorini\WORK\InputNum\obj\Debug\net8.0\ref\InputNum.dll
