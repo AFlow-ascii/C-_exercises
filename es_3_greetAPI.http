@@ -1,0 +1,6 @@
+@es_3_greetAPI_HostAddress = http://localhost:5125
+
+GET {{es_3_greetAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
